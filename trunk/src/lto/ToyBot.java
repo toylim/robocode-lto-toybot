@@ -17,7 +17,7 @@ import java.util.ArrayList;
  * @author Toy Lim
  */
 public class ToyBot extends AdvancedRobot {
-  private static final double RADARMAXTURN = 45.0
+  private static final double RADARMAXTURN = 45.0;
   private static final double RADARMINTURN = 15.0;
   //private static final double GUNMAXTURN = 20.0;
   private RobotStatus status;
